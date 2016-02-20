@@ -2,7 +2,7 @@
 
 ## Synopsis
 - Series of CTF-esque File Steganography Challenges
-- Created somewhere around the earl 2010's
+- Created somewhere around the early 2010's
 
 ## Requirements
  - No requirements, per se (Your favorite stego tools?)
